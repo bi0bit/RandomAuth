@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="loginLabel">Login:</string>
+    <string name="no_internet_access">No internet connection</string>
+    <string name="wrong_auth_data">Login or password incorrect</string>
+</resources>
